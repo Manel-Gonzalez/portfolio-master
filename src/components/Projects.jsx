@@ -42,7 +42,6 @@ export default function Projects() {
                   :
                   null
                   }
-
                 </div>
               </div>
             </div>
